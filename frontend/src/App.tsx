@@ -2,7 +2,7 @@
 function App() {
   return (
     <div>
-      <h1>Neto</h1>
+      <h1 className='text-primary'>Neto</h1>
     </div>
   );
 }
